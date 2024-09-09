@@ -1,0 +1,14 @@
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\build\QT5.exe
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\build\QT5.deps.json
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\build\QT5.runtimeconfig.json
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\build\QT5.dll
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\build\QT5.pdb
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\QT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\QT5.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\QT5.AssemblyInfo.cs
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\QT5.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\QT5.dll
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\refint\QT5.dll
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\QT5.pdb
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\QT5.genruntimeconfig.cache
+C:\Users\j02\Documents\João Lucas\c#\Lista de exercicio 4\QT5\obj\Debug\net8.0\ref\QT5.dll
